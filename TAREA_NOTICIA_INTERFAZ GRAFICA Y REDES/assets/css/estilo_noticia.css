@@ -1,0 +1,346 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+
+
+
+.Barra_superior {
+    
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient( #ac9859, #513e00);
+    position: relative;
+    margin: -60px 0px 0px 0px ;
+}
+.nombre_noticiero {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 60px; 
+    padding-left: 60px; 
+    padding-right: 60px;
+    color: antiquewhite;
+    padding: 15px 0px 20px 200px;
+
+}
+
+
+
+.foto_portada {
+    margin: auto;
+    display: block;
+    width: 90%;
+    transition: ease 1s;
+}
+.foto_portada:hover {
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    display: block;
+}
+#portada {
+    transition-timing-function: ease-in-out;
+}
+
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif; 
+    padding-left: 100px; 
+    padding-right: 100px;
+    color: antiquewhite;
+    font-size: 60px;
+    top: 50%;
+    margin-top: -500px;
+}
+h2 {
+    font-family: 'Source Sans Pro', sans-serif; font-weight: 900; font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    color: antiquewhite;
+    margin-bottom: 150px;
+}
+
+
+
+p {
+    font-family: 'Source Sans 3', sans-serif; 
+    color: #51001c; 
+    font-size: 24px; 
+    text-align: justify;
+    letter-spacing: 2pt;
+    font-weight: bold;
+}
+blockquote {
+    font-family: 'Montserrat', sans-serif; 
+    color: #dbbf6900; 
+    font-size: 26px; 
+    font-style: italic; 
+    margin: 0px 5px 0px 5px; 
+    padding: 5px 5px 5px 5px;
+    background-color: #7349007e;
+}
+
+
+
+.imagen_2 {
+    width: 70%;
+    margin: auto;
+    display: block;
+    transition: 1s;
+}
+.imagen_2:hover {
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+#foto_2 {
+    transition-timing-function: ease-in-out;
+}
+.flota_2{
+    color: #ffffff;
+    font-size: 40px;
+    margin: 10px 200px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+}
+.dato_2 {
+    margin: 10px 190px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: justify;
+    transition: ease 1s;
+    background-color:#734900d2 ;
+}
+.dato_2:hover {
+    color: rgb(255, 255, 255);
+    
+}
+#dato_color2 {
+    transition-timing-function: ease-in-out;
+}
+
+
+
+.foto_3 {
+    width: 70%;
+    margin: auto;
+    display: block;
+    transition: ease 1s;
+}
+.foto_3:hover {
+    width: 90%;
+    display: block; 
+    margin: auto;
+}
+#div_imagen3 {
+    transition-timing-function: ease-in-out;
+}
+.flota_3 {
+    color: #ffffff;
+    font-size: 40px;
+    margin: 10px 200px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+}
+.dato_3 {
+    background-color: #734900d2;
+    margin: 10px 190px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: justify;
+    transition: ease 1s;
+}
+.dato_3:hover {
+    color: #ffffff;
+    background-color: #734900d2;
+}
+#dato_color3 {
+    transition-timing-function: ease-in-out;
+}
+
+
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+h3 {font-family: 'Montserrat', sans-serif; 
+    color: #28000f; 
+    font-size: 48px;
+}
+.titulo_3 {
+    margin: 0px 5px 0px 5px;
+}
+.titulo_radical {
+    margin: 5px 5px 5px 5px;
+    padding: 0px 5px 0px 5px;
+}
+.parrafo_radical {
+    width: 50%;
+    float: left;
+}
+.foto_radical {
+    width: 48%;
+    float: right;
+    margin: auto;
+    display: block;
+    transition: ease 1s;
+}
+.foto_radical:hover {
+    width: 49%;
+    display: block; 
+    margin: auto;
+}
+#foto_4 {
+    transition-timing-function: ease-in-out;
+}
+.flota_4 {
+    width: 50%;
+    float: left;
+    text-align: center;
+    color: #ffffff;
+    margin: auto;
+    font-size: 30px;
+    
+}
+.dato_foto4 {
+    width: 50%;
+    float: left;
+    text-align: justify;
+    background-color: #734900d2;
+    margin: auto;
+    transition: ease 1s;
+}
+.dato_foto4:hover {
+    width: 50%;
+    float: left;
+    text-align: justify;
+    color: #ffffff;
+    margin: auto;
+}
+#dato4 {
+    transition-timing-function: ease-in-out;
+}
+
+
+
+.vacio {
+    height: 50px;
+    margin-top: 973px;
+   
+    
+}
+
+
+
+h4 {font-family: 'Montserrat', sans-serif; 
+    color: #28000f; 
+    font-size: 48px;
+    margin-top: 0; 
+    margin-bottom: 0; 
+}
+.titulo_4 {
+    margin: 0px 5px 0px 5px;
+    
+}
+.titulo_legado {
+    float: left;
+    margin: 0px 5px 0px 5px;
+    padding: 0px 5px 10px 5px;
+    width: 100%;
+    
+}
+.foto_legado {
+    width: 48%;
+    float: left;
+    margin: auto;
+    display: block;
+    transition: ease 1s;
+}
+.foto_legado:hover {
+    width: 49%;
+    display: block; 
+    margin: auto;
+
+}
+#foto_5 {
+    transition-timing-function: ease-in-out;
+}
+.parrafo_legado {
+    width: 50%;
+    float: right;
+    margin: 0px 5px 0px 5px;
+}
+.flota_5 {
+    width: 50%;
+    float: right;
+    text-align: center;
+    color: #ffffff;
+    margin: auto;
+    font-size: 30px;
+}
+.dato_foto5 {
+    width: 50%;
+    float: right;
+    text-align: justify;
+    background-color: #734900d2;
+    margin: auto;
+    transition: ease 1s;
+}
+.dato_foto5:hover {
+    width: 50%;
+    float: right;
+    text-align: justify;
+    color: #ffffff;
+    margin: auto;
+    transition: ease 1s;
+}
+
+
+
+.vacio_2 {
+    height: 50px;
+    margin-top: 973px;
+}
+
+
+
+.imagen_final {
+    width: 70%;
+    margin: auto;
+    display: block;
+    transition: ease 1s;
+}
+.imagen_final:hover {
+    width: 90%;
+    margin: auto;
+    display: block;
+}
+#foto_final {
+    transition-timing-function: ease-in-out;
+}
+.flota_final {
+    color: #ffffff;
+    font-size: 40px;
+    margin: 10px 200px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+}
+.dato_final {
+    background-color: #734900d2;
+    margin: 10px 190px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: justify;
+    transition: ease 1s;
+}
+.dato_final:hover {
+    color: #ffffff;
+    margin: 10px 190px 10px 200px;
+    padding: 10px 50px 10px 50px;
+    text-align: justify;
+}
+#final {
+    transition-timing-function: ease-in-out;
+}
